@@ -15,11 +15,5 @@ int main() {
 	f5.setName("paine");	
 	f1.afisare();
 	f1 = f1 + "kethcup";
-	f1.afisare();
-
-	
-
-
-
-	
+	f1.afisare();	
 }
