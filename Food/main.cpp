@@ -11,11 +11,14 @@ int main() {
 	f3.afisare();
 	Food f4(f3);
 	f3.setBrand("Vasile");
-	f3.afisare();	
-	f4.afisare();
 	Food f5(f4);
-	f5.setName("paine");
-	f5.afisare();
+	f5.setName("paine");	
+	f1.afisare();
+	f1 = f1 + "kethcup";
+	f1.afisare();
+
+	
+
 
 
 	
